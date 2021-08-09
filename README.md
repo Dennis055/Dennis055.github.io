@@ -5,7 +5,7 @@
 Hello, I'm Dennis. If you're interested in me for any opportunity, don't hesitate to contact me.  
 
 Here is the link of my personal website:  
-- **Personal Website**: https://ivorydaae.github.io/yahsuan-tai/index.html  
+- **Personal Website**: https://dennis055.github.io.
 
 > **DENNIS SHIH HSIANG DAI**  
 > *Based in Taipei, Taiwan*  

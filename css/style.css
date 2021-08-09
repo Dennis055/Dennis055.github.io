@@ -1260,3 +1260,15 @@ ul.social-icons {
 .fa-github:hover {
     color: #5a32a3;
 }
+
+.fa-medium {
+    padding:5px 7px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+.fa-medium:hover {
+    color: #5a32a3;
+}
